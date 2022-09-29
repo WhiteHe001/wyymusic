@@ -1,3 +1,5 @@
+## 网易云音乐 使用 http://doc.mxbizhi.com/#/ProjectDocs/net_music_API 
+
 # wyymusic
 
 ## Project setup
